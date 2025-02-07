@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\IntroToC\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\IntroToC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87E658A1-0C2B-41AC-ADC2-D5ED89107C8C}|IntroToC\\IntroToC.vcxproj|C:\\Users\\simon\\source\\repos\\IntroToC\\IntroToC\\Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{94E34708-7441-4C68-8134-119310E160DE}|Task.2\\Task.2.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\IntroToC\\IntroToC\\Task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94E34708-7441-4C68-8134-119310E160DE}|Task.2\\Task.2.vcxproj|solutionrelative:IntroToC\\Task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E658A1-0C2B-41AC-ADC2-D5ED89107C8C}|IntroToC\\IntroToC.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\IntroToC\\IntroToC\\Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{87E658A1-0C2B-41AC-ADC2-D5ED89107C8C}|IntroToC\\IntroToC.vcxproj|solutionrelative:IntroToC\\Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,10 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Task2.cpp",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\IntroToC\\IntroToC\\Task2.cpp",
+              "RelativeDocumentMoniker": "IntroToC\\Task2.cpp",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\IntroToC\\IntroToC\\Task2.cpp",
+              "RelativeToolTip": "IntroToC\\Task2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T12:35:57.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Task1.cpp",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\IntroToC\\IntroToC\\Task1.cpp",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\IntroToC\\IntroToC\\Task1.cpp",
               "RelativeDocumentMoniker": "IntroToC\\Task1.cpp",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\IntroToC\\IntroToC\\Task1.cpp",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\IntroToC\\IntroToC\\Task1.cpp",
               "RelativeToolTip": "IntroToC\\Task1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

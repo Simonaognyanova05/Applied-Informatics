@@ -1,0 +1,3 @@
+﻿  Task2.cpp
+C:\Users\simon\OneDrive\Desktop\University - practice\Applied-Informatics\IntroToC\IntroToC\Task2.cpp(2,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Task.2.vcxproj -> C:\Users\simon\OneDrive\Desktop\University - practice\Applied-Informatics\IntroToC\x64\Debug\Task.2.exe
