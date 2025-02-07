@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\IntroToC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5AF6ECAC-63D7-4845-BB45-F585C562B298}|Task.4\\Task.4.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\IntroToC\\Task.4\\Task.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AF6ECAC-63D7-4845-BB45-F585C562B298}|Task.4\\Task.4.vcxproj|solutionrelative:Task.4\\Task.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{93BA6E4E-D848-4290-89DA-2AC472C80495}|Task.3\\Task.3.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\IntroToC\\Task.3\\Task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{93BA6E4E-D848-4290-89DA-2AC472C80495}|Task.3\\Task.3.vcxproj|solutionrelative:Task.3\\Task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Task.4.cpp",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\IntroToC\\Task.4\\Task.4.cpp",
+              "RelativeDocumentMoniker": "Task.4\\Task.4.cpp",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\IntroToC\\Task.4\\Task.4.cpp",
+              "RelativeToolTip": "Task.4\\Task.4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T12:43:23.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Task3.cpp",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\IntroToC\\Task.3\\Task3.cpp",
               "RelativeDocumentMoniker": "Task.3\\Task3.cpp",
