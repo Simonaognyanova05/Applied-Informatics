@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\DataTypes\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4127ADF0-22DC-475A-99D9-62861507BBCA}|DataTypes\\DataTypes.vcxproj|C:\\Users\\simon\\source\\repos\\DataTypes\\DataTypes\\Task.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4127ADF0-22DC-475A-99D9-62861507BBCA}|DataTypes\\DataTypes.vcxproj|solutionrelative:DataTypes\\Task.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D258B909-1FFF-4B52-A0F8-40211A1D663C}|Task.2\\Task.2.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.2\\CelsiumToF.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D258B909-1FFF-4B52-A0F8-40211A1D663C}|Task.2\\Task.2.vcxproj|solutionrelative:Task.2\\CelsiumToF.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Task.1.c",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\DataTypes\\DataTypes\\Task.1.c",
-              "RelativeDocumentMoniker": "DataTypes\\Task.1.c",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\DataTypes\\DataTypes\\Task.1.c",
-              "RelativeToolTip": "DataTypes\\Task.1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Title": "CelsiumToF.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.2\\CelsiumToF.c",
+              "RelativeDocumentMoniker": "Task.2\\CelsiumToF.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.2\\CelsiumToF.c",
+              "RelativeToolTip": "Task.2\\CelsiumToF.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-14T12:31:00.914Z",
+              "WhenOpened": "2025-02-14T12:37:11.547Z",
               "EditorCaption": ""
             }
           ]
