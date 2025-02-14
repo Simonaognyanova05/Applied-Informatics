@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02E0E0C9-821A-47A3-A806-2A632637C6FD}|Task.3\\Task.3.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.3\\CalculatePolynomal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{02E0E0C9-821A-47A3-A806-2A632637C6FD}|Task.3\\Task.3.vcxproj|solutionrelative:Task.3\\CalculatePolynomal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{97802D49-05E2-46EC-BE17-7FF6C1275E7C}|Task.4\\Task.4.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.4\\ArithmeticalOperations.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97802D49-05E2-46EC-BE17-7FF6C1275E7C}|Task.4\\Task.4.vcxproj|solutionrelative:Task.4\\ArithmeticalOperations.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalculatePolynomal.c",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.3\\CalculatePolynomal.c",
-              "RelativeDocumentMoniker": "Task.3\\CalculatePolynomal.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.3\\CalculatePolynomal.c",
-              "RelativeToolTip": "Task.3\\CalculatePolynomal.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Title": "ArithmeticalOperations.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.4\\ArithmeticalOperations.c",
+              "RelativeDocumentMoniker": "Task.4\\ArithmeticalOperations.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.4\\ArithmeticalOperations.c",
+              "RelativeToolTip": "Task.4\\ArithmeticalOperations.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-14T12:41:15.238Z",
+              "WhenOpened": "2025-02-14T12:45:11.331Z",
               "EditorCaption": ""
             }
           ]
