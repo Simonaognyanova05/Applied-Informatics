@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97802D49-05E2-46EC-BE17-7FF6C1275E7C}|Task.4\\Task.4.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.4\\ArithmeticalOperations.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{97802D49-05E2-46EC-BE17-7FF6C1275E7C}|Task.4\\Task.4.vcxproj|solutionrelative:Task.4\\ArithmeticalOperations.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B9FED1A8-CFC0-471E-9396-9C2FD6293838}|Task.5\\Task.5.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.5\\ChangeValueOfVariable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9FED1A8-CFC0-471E-9396-9C2FD6293838}|Task.5\\Task.5.vcxproj|solutionrelative:Task.5\\ChangeValueOfVariable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ArithmeticalOperations.c",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.4\\ArithmeticalOperations.c",
-              "RelativeDocumentMoniker": "Task.4\\ArithmeticalOperations.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.4\\ArithmeticalOperations.c",
-              "RelativeToolTip": "Task.4\\ArithmeticalOperations.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Title": "ChangeValueOfVariable.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.5\\ChangeValueOfVariable.c",
+              "RelativeDocumentMoniker": "Task.5\\ChangeValueOfVariable.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.5\\ChangeValueOfVariable.c",
+              "RelativeToolTip": "Task.5\\ChangeValueOfVariable.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-14T12:45:11.331Z",
+              "WhenOpened": "2025-02-14T12:48:54.96Z",
               "EditorCaption": ""
             }
           ]
