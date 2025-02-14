@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9FED1A8-CFC0-471E-9396-9C2FD6293838}|Task.5\\Task.5.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.5\\ChangeValueOfVariable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B9FED1A8-CFC0-471E-9396-9C2FD6293838}|Task.5\\Task.5.vcxproj|solutionrelative:Task.5\\ChangeValueOfVariable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B537C893-86A3-423A-B1EE-0418AF69C77D}|Task.6\\Task.6.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.6\\PrintValues.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B537C893-86A3-423A-B1EE-0418AF69C77D}|Task.6\\Task.6.vcxproj|solutionrelative:Task.6\\PrintValues.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ChangeValueOfVariable.c",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.5\\ChangeValueOfVariable.c",
-              "RelativeDocumentMoniker": "Task.5\\ChangeValueOfVariable.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.5\\ChangeValueOfVariable.c",
-              "RelativeToolTip": "Task.5\\ChangeValueOfVariable.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Title": "PrintValues.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.6\\PrintValues.c",
+              "RelativeDocumentMoniker": "Task.6\\PrintValues.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\DataTypes\\Task.6\\PrintValues.c",
+              "RelativeToolTip": "Task.6\\PrintValues.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-14T12:48:54.96Z",
+              "WhenOpened": "2025-02-14T12:51:59.117Z",
               "EditorCaption": ""
             }
           ]
