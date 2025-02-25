@@ -1,14 +1,20 @@
 #include <stdio.h>
 void main(void) {
-	int a, b, sum;
-	scanf_s("Value of a: %i", &a);
-	scanf_s("Value of b: %i", &b);
-	if (a == 100) {
-		if (b == 200) {
-			sum = a + b;
-		}
+	int a, b, c;
+	printf("a: ");
+	scanf_s("%i", &a);
+	printf("b: ");
+	scanf_s("%i", &b);
+	printf("c: ");
+	scanf_s("%i", &c);
+
+	if (a > b && a > c) {
+		printf("Maximum: %i", a);
 	}
-	printf("The sum of %i and %i is %i", a, b, sum);
-	printf("Exact value of a is %i", a);
-	printf("Exact value of b is %i", b);
+	else if (b > a && b > c) {
+		printf("Maximum: %i", b);
+	}
+	else {
+		printf("Maximum: %i", c);
+	}
 }
