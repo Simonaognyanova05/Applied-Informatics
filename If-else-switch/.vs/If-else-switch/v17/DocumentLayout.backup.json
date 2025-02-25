@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\If-else-switch\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\If-else-switch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63849784-FE7B-4366-A279-9AED3212DFFC}|If-else-switch\\If-else-switch.vcxproj|C:\\Users\\simon\\source\\repos\\If-else-switch\\If-else-switch\\Task.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{63849784-FE7B-4366-A279-9AED3212DFFC}|If-else-switch\\If-else-switch.vcxproj|solutionrelative:If-else-switch\\Task.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2E7A4750-350C-42A7-94BE-ED408E244D33}|Task.2\\Task.2.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\If-else-switch\\Task.2\\Task.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E7A4750-350C-42A7-94BE-ED408E244D33}|Task.2\\Task.2.vcxproj|solutionrelative:Task.2\\Task.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Task.1.c",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\If-else-switch\\If-else-switch\\Task.1.c",
-              "RelativeDocumentMoniker": "If-else-switch\\Task.1.c",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\If-else-switch\\If-else-switch\\Task.1.c*",
-              "RelativeToolTip": "If-else-switch\\Task.1.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Title": "Task.2.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\If-else-switch\\Task.2\\Task.2.c",
+              "RelativeDocumentMoniker": "Task.2\\Task.2.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\If-else-switch\\Task.2\\Task.2.c",
+              "RelativeToolTip": "Task.2\\Task.2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-25T20:57:33.644Z",
+              "WhenOpened": "2025-02-25T21:08:10.749Z",
               "EditorCaption": ""
             }
           ]
