@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\for-while-do-while\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB5E1ED-CEF9-4C7A-AF8F-B217A2695498}|for-while-do-while\\for-while-do-while.vcxproj|C:\\Users\\simon\\source\\repos\\for-while-do-while\\for-while-do-while\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FB5E1ED-CEF9-4C7A-AF8F-B217A2695498}|for-while-do-while\\for-while-do-while.vcxproj|solutionrelative:for-while-do-while\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\for-while-do-while\\for-while-do-while\\Source.c",
+              "RelativeDocumentMoniker": "for-while-do-while\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\for-while-do-while\\for-while-do-while\\Source.c",
+              "RelativeToolTip": "for-while-do-while\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-28T19:21:26.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
