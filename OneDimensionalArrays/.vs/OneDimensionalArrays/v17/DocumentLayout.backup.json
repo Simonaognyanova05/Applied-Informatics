@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8CE1114E-3F02-4B42-8F66-4D6332D6938B}|Task.5\\Task.5.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\Task.5\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CE1114E-3F02-4B42-8F66-4D6332D6938B}|Task.5\\Task.5.vcxproj|solutionrelative:Task.5\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0DD81AD4-C452-41E1-B58C-BF734A7D6E06}|Task.4\\Task.4.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\Task.4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0DD81AD4-C452-41E1-B58C-BF734A7D6E06}|Task.4\\Task.4.vcxproj|solutionrelative:Task.4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\Task.5\\Source.c",
+              "RelativeDocumentMoniker": "Task.5\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\Task.5\\Source.c*",
+              "RelativeToolTip": "Task.5\\Source.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-07T15:37:40.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\Task.4\\Source.c",
               "RelativeDocumentMoniker": "Task.4\\Source.c",
