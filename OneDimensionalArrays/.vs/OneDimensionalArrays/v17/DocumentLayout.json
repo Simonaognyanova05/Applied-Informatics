@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{128ADB39-8579-433E-AE60-9DC42EC06DEE}|Task.2\\Task.2.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{128ADB39-8579-433E-AE60-9DC42EC06DEE}|Task.2\\Task.2.vcxproj|solutionrelative:Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13821557-E71E-45D6-8DD3-D9436F185324}|OneDimensionalArrays\\OneDimensionalArrays.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\OneDimensionalArrays\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{13821557-E71E-45D6-8DD3-D9436F185324}|OneDimensionalArrays\\OneDimensionalArrays.vcxproj|solutionrelative:OneDimensionalArrays\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A090B155-172E-4ECD-90E1-C047525B4DA7}|Task.3\\Task.3.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\Task.3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A090B155-172E-4ECD-90E1-C047525B4DA7}|Task.3\\Task.3.vcxproj|solutionrelative:Task.3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\Task.2\\Source.c",
-              "RelativeDocumentMoniker": "Task.2\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\Task.2\\Source.c",
-              "RelativeToolTip": "Task.2\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\Task.3\\Source.c",
+              "RelativeDocumentMoniker": "Task.3\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\Task.3\\Source.c",
+              "RelativeToolTip": "Task.3\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T14:52:54.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\OneDimensionalArrays\\Source.c",
-              "RelativeDocumentMoniker": "OneDimensionalArrays\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\OneDimensionalArrays\\OneDimensionalArrays\\Source.c",
-              "RelativeToolTip": "OneDimensionalArrays\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T14:46:36.265Z",
+              "WhenOpened": "2025-03-07T15:03:40.182Z",
               "EditorCaption": ""
             }
           ]
