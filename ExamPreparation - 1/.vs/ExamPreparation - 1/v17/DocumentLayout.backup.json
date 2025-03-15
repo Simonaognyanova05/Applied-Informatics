@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5642B2A2-EBEB-4480-AD16-FD1F6D1A26B5}|MultidimensionalArrays\\MultidimensionalArrays.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 1\\MultidimensionalArrays\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5642B2A2-EBEB-4480-AD16-FD1F6D1A26B5}|MultidimensionalArrays\\MultidimensionalArrays.vcxproj|solutionrelative:MultidimensionalArrays\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9AB1FE10-4576-4FB5-934E-F95ACBCC8B1F}|MinMaxInOnedimArr\\MinMaxInOnedimArr.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 1\\MinMaxInOnedimArr\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AB1FE10-4576-4FB5-934E-F95ACBCC8B1F}|MinMaxInOnedimArr\\MinMaxInOnedimArr.vcxproj|solutionrelative:MinMaxInOnedimArr\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 1\\MultidimensionalArrays\\Source.c",
-              "RelativeDocumentMoniker": "MultidimensionalArrays\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 1\\MultidimensionalArrays\\Source.c*",
-              "RelativeToolTip": "MultidimensionalArrays\\Source.c*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 1\\MinMaxInOnedimArr\\Source.c",
+              "RelativeDocumentMoniker": "MinMaxInOnedimArr\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 1\\MinMaxInOnedimArr\\Source.c*",
+              "RelativeToolTip": "MinMaxInOnedimArr\\Source.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-15T11:26:26.372Z",
+              "WhenOpened": "2025-03-15T11:41:12.885Z",
               "EditorCaption": ""
             }
           ]
