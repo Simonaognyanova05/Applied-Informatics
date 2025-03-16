@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C9E5223-0925-4E65-A424-DBB73C520165}|Multidimensional\u0410rrays\\Multidimensional\u0410rrays.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Multidimensional\u0410rrays\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2C9E5223-0925-4E65-A424-DBB73C520165}|Multidimensional\u0410rrays\\Multidimensional\u0410rrays.vcxproj|solutionrelative:Multidimensional\u0410rrays\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EF63566C-8AEB-4701-B646-8E45D3AF2B38}|Task.2\\Task.2.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF63566C-8AEB-4701-B646-8E45D3AF2B38}|Task.2\\Task.2.vcxproj|solutionrelative:Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Multidimensional\u0410rrays\\Source.c",
-              "RelativeDocumentMoniker": "Multidimensional\u0410rrays\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Multidimensional\u0410rrays\\Source.c*",
-              "RelativeToolTip": "Multidimensional\u0410rrays\\Source.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Task.2\\Source.c",
+              "RelativeDocumentMoniker": "Task.2\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Task.2\\Source.c*",
+              "RelativeToolTip": "Task.2\\Source.c*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-16T19:06:40.542Z",
+              "WhenOpened": "2025-03-16T19:12:26.65Z",
               "EditorCaption": ""
             }
           ]
