@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\simon\source\repos\ExamPreparation - 2\ExamPreparation - 2\Source.c(20,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  ExamPreparation - 2.vcxproj -> C:\Users\simon\source\repos\ExamPreparation - 2\x64\Debug\ExamPreparation - 2.exe
