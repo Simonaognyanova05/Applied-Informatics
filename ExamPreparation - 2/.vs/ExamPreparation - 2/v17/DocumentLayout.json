@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\ExamPreparation - 2\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E4E7843-EADB-440D-BBE1-02CFBB840F9E}|ExamPreparation - 2\\ExamPreparation - 2.vcxproj|C:\\Users\\simon\\source\\repos\\ExamPreparation - 2\\ExamPreparation - 2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7E4E7843-EADB-440D-BBE1-02CFBB840F9E}|ExamPreparation - 2\\ExamPreparation - 2.vcxproj|solutionrelative:ExamPreparation - 2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{53EBFB6C-BE21-42CE-B651-24A64BCCE66E}|Task.2\\Task.2.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 2\\Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53EBFB6C-BE21-42CE-B651-24A64BCCE66E}|Task.2\\Task.2.vcxproj|solutionrelative:Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\ExamPreparation - 2\\ExamPreparation - 2\\Source.c",
-              "RelativeDocumentMoniker": "ExamPreparation - 2\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\ExamPreparation - 2\\ExamPreparation - 2\\Source.c",
-              "RelativeToolTip": "ExamPreparation - 2\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 2\\Task.2\\Source.c",
+              "RelativeDocumentMoniker": "Task.2\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 2\\Task.2\\Source.c",
+              "RelativeToolTip": "Task.2\\Source.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-17T20:53:53.936Z",
+              "WhenOpened": "2025-03-17T21:12:14.303Z",
               "EditorCaption": ""
             }
           ]
