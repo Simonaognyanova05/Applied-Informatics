@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F9165D4-B2F8-4D38-9C28-8DA5C0064D45}|Task.9\\Task.9.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 2\\Task.9\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3F9165D4-B2F8-4D38-9C28-8DA5C0064D45}|Task.9\\Task.9.vcxproj|solutionrelative:Task.9\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4E076DD6-7B97-4F0C-9CFA-6E12C28C6BE1}|Task. 10\\Task. 10.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 2\\Task. 10\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E076DD6-7B97-4F0C-9CFA-6E12C28C6BE1}|Task. 10\\Task. 10.vcxproj|solutionrelative:Task. 10\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 2\\Task.9\\Source.c",
-              "RelativeDocumentMoniker": "Task.9\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 2\\Task.9\\Source.c",
-              "RelativeToolTip": "Task.9\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 2\\Task. 10\\Source.c",
+              "RelativeDocumentMoniker": "Task. 10\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 2\\Task. 10\\Source.c",
+              "RelativeToolTip": "Task. 10\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-18T20:16:33.896Z",
+              "WhenOpened": "2025-03-18T20:20:32.382Z",
               "EditorCaption": ""
             }
           ]
