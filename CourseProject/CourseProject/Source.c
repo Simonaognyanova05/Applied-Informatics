@@ -15,6 +15,12 @@ void sort(int a[], int n)
         }       
     }
 }
+
+void printArray(int array[]) {
+    for (int i = 0; i < 12; i++) {
+        printf("%i ", array[i]);
+    }
+}
 void main() {
     printf("Zadanie: Da se sastavi blokova shema na algoritam i da se napishe programa za obedinqvane na 2 masiwa A[8] i B[8]. Elementite na polucheniq masiv C[12] da se sortirat i otpechatat vav vazhodyasht red. \n");
     printf("Simona Ognyanova, 471224015 \n \n");
@@ -40,7 +46,5 @@ void main() {
 
     sort(C, 12);
 
-    for (int i = 0; i < 12; i++) {
-        printf("%i ", C[i]);
-    }
+    printArray(C);
 }
