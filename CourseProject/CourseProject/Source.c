@@ -27,6 +27,7 @@ void sort(int a[], int n)
 }
 
 void printArray(int array[]) {
+    printf("Sorted array: ");
     for (int i = 0; i < 12; i++) {
         printf("%i ", array[i]);
     }
