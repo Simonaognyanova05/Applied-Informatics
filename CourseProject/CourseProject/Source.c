@@ -4,6 +4,12 @@ void getInfo() {
     printf("Zadanie: Da se sastavi blokova shema na algoritam i da se napishe programa za obedinqvane na 2 masiwa A[8] i B[8]. Elementite na polucheniq masiv C[12] da se sortirat i otpechatat vav vazhodyasht red. \n");
     printf("Simona Ognyanova, 471224015 \n \n");
 }
+
+void initArray(int array[], int n) {
+    for (int i = 0; i < n; i++) {
+        scanf_s("%i", &array[i]);
+    }
+}
 void sort(int a[], int n)
 {
     int i, j, temp;
@@ -30,14 +36,10 @@ void main() {
     int A[4], B[8], C[12];
 
     printf("Enter the elements of the first array: \n");
-    for (int i = 0; i < 4; i++) {
-        scanf_s("%i", &A[i]);
-    }
+    initArray(A, 4);
 
     printf("Enter the elements of the second array: \n");
-    for (int i = 0; i < 8; i++) {
-        scanf_s("%i", &B[i]);
-    }
+    initArray(B, 8);
 
     for (int i = 0; i < 4; i++) {
         C[i] = A[i];
@@ -48,6 +50,5 @@ void main() {
     }
 
     sort(C, 12);
-
     printArray(C);
 }
