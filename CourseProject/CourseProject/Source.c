@@ -1,5 +1,9 @@
 ﻿#include <stdio.h>
 
+void getInfo() {
+    printf("Zadanie: Da se sastavi blokova shema na algoritam i da se napishe programa za obedinqvane na 2 masiwa A[8] i B[8]. Elementite na polucheniq masiv C[12] da se sortirat i otpechatat vav vazhodyasht red. \n");
+    printf("Simona Ognyanova, 471224015 \n \n");
+}
 void sort(int a[], int n)
 {
     int i, j, temp;
@@ -22,8 +26,7 @@ void printArray(int array[]) {
     }
 }
 void main() {
-    printf("Zadanie: Da se sastavi blokova shema na algoritam i da se napishe programa za obedinqvane na 2 masiwa A[8] i B[8]. Elementite na polucheniq masiv C[12] da se sortirat i otpechatat vav vazhodyasht red. \n");
-    printf("Simona Ognyanova, 471224015 \n \n");
+    getInfo();
     int A[4], B[8], C[12];
 
     printf("Enter the elements of the first array: \n");
