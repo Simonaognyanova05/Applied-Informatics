@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\CourseProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E39F99F-4397-4E46-9117-BE92C4569CEC}|CourseProject\\CourseProject.vcxproj|C:\\Users\\simon\\source\\repos\\CourseProject\\CourseProject\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E39F99F-4397-4E46-9117-BE92C4569CEC}|CourseProject\\CourseProject.vcxproj|solutionrelative:CourseProject\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\CourseProject\\CourseProject\\Source.c",
+              "RelativeDocumentMoniker": "CourseProject\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\CourseProject\\CourseProject\\Source.c",
+              "RelativeToolTip": "CourseProject\\Source.c",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-23T20:11:37.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
