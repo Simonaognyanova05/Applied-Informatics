@@ -16,6 +16,16 @@ void findSumOfElements(int arr1[][3], int arr2[][3], int resultArr[][3]) {
 		}
 	}
 }
+
+void printArray(int array[][3]) {
+	printf("Novopoluchen masiv: \n");
+	for (int i = 0; i < 2; i++) {
+		for (int j = 0; j < 3; j++) {
+			printf("%i ", array[i][j]);
+		}
+		printf("\n");
+	}
+}
 void main() {
 	int arr1[2][3], arr2[2][3], resultArr[2][3];
 
@@ -26,11 +36,5 @@ void main() {
 	inputArray(arr2);
 
 	findSumOfElements(arr1, arr2, resultArr);
-	printf("Novopoluchen masiv: \n");
-	for (int i = 0; i < 2; i++) {
-		for (int j = 0; j < 3; j++) {
-			printf("%i ", resultArr[i][j]);
-		}
-		printf("\n");
-	}
+	printArray(resultArr);
 }
