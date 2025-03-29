@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F1FE2BD-E3CA-4163-97C3-D61578B4EFAF}|Task.3\\Task.3.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3F1FE2BD-E3CA-4163-97C3-D61578B4EFAF}|Task.3\\Task.3.vcxproj|solutionrelative:Task.3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{462B0D97-AA14-4D01-87D8-67E4F5B72B90}|Task.4\\Task.4.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{462B0D97-AA14-4D01-87D8-67E4F5B72B90}|Task.4\\Task.4.vcxproj|solutionrelative:Task.4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.3\\Source.c",
-              "RelativeDocumentMoniker": "Task.3\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.3\\Source.c",
-              "RelativeToolTip": "Task.3\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.4\\Source.c",
+              "RelativeDocumentMoniker": "Task.4\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.4\\Source.c",
+              "RelativeToolTip": "Task.4\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-29T10:46:51.183Z",
+              "WhenOpened": "2025-03-29T10:54:18.373Z",
               "EditorCaption": ""
             }
           ]
