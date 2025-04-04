@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Recursion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29E47BC8-47CA-443E-B683-48DBF2DF8D99}|Task.3\\Task.3.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Recursion\\Task.3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29E47BC8-47CA-443E-B683-48DBF2DF8D99}|Task.3\\Task.3.vcxproj|solutionrelative:Task.3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FD57A2E4-91B4-420C-9C32-613E0D9F2614}|Task.5\\Task.5.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Recursion\\Task.5\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD57A2E4-91B4-420C-9C32-613E0D9F2614}|Task.5\\Task.5.vcxproj|solutionrelative:Task.5\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46B473C-C9F4-4B08-BC9D-C0C6FEE5876E}|Task.4\\Task.4.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Recursion\\Task.4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A46B473C-C9F4-4B08-BC9D-C0C6FEE5876E}|Task.4\\Task.4.vcxproj|solutionrelative:Task.4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Recursion\\Task.3\\Source.c",
-              "RelativeDocumentMoniker": "Task.3\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Recursion\\Task.3\\Source.c",
-              "RelativeToolTip": "Task.3\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Recursion\\Task.5\\Source.c",
+              "RelativeDocumentMoniker": "Task.5\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Recursion\\Task.5\\Source.c",
+              "RelativeToolTip": "Task.5\\Source.c",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-04T11:58:42.16Z",
+              "WhenOpened": "2025-04-04T12:12:58.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Recursion\\Task.4\\Source.c",
+              "RelativeDocumentMoniker": "Task.4\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Recursion\\Task.4\\Source.c",
+              "RelativeToolTip": "Task.4\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-04T12:04:03.625Z",
               "EditorCaption": ""
             }
           ]
