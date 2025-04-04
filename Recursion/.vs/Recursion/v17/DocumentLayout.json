@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\Recursion\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Recursion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BB4B2F7-F5E1-43A8-B16E-C1490AE53199}|Recursion\\Recursion.vcxproj|C:\\Users\\simon\\source\\repos\\Recursion\\Recursion\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1BB4B2F7-F5E1-43A8-B16E-C1490AE53199}|Recursion\\Recursion.vcxproj|solutionrelative:Recursion\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{33DB23EB-9E73-4FAB-A756-AFEE0A737A12}|Task.2\\Task.2.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Recursion\\Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33DB23EB-9E73-4FAB-A756-AFEE0A737A12}|Task.2\\Task.2.vcxproj|solutionrelative:Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Recursion\\Recursion\\Source.c",
-              "RelativeDocumentMoniker": "Recursion\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\Recursion\\Recursion\\Source.c",
-              "RelativeToolTip": "Recursion\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Recursion\\Task.2\\Source.c",
+              "RelativeDocumentMoniker": "Task.2\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Recursion\\Task.2\\Source.c",
+              "RelativeToolTip": "Task.2\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-04T11:47:03.497Z",
+              "WhenOpened": "2025-04-04T11:53:04.414Z",
               "EditorCaption": ""
             }
           ]
