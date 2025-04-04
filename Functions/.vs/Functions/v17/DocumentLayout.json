@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{41541DA7-F1A3-49AB-A504-43A04249EAEB}|Task.5\\Task.5.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.5\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{41541DA7-F1A3-49AB-A504-43A04249EAEB}|Task.5\\Task.5.vcxproj|solutionrelative:Task.5\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462B0D97-AA14-4D01-87D8-67E4F5B72B90}|Task.4\\Task.4.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{462B0D97-AA14-4D01-87D8-67E4F5B72B90}|Task.4\\Task.4.vcxproj|solutionrelative:Task.4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1FE2BD-E3CA-4163-97C3-D61578B4EFAF}|Task.3\\Task.3.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F1FE2BD-E3CA-4163-97C3-D61578B4EFAF}|Task.3\\Task.3.vcxproj|solutionrelative:Task.3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6088F78A-EA26-4AA0-8DBA-8EB0273DD48B}|Task.2\\Task.2.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6088F78A-EA26-4AA0-8DBA-8EB0273DD48B}|Task.2\\Task.2.vcxproj|solutionrelative:Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139EDAC2-5529-4DA6-8C4A-C63D95B63DBA}|Functions\\Functions.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Functions\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{139EDAC2-5529-4DA6-8C4A-C63D95B63DBA}|Functions\\Functions.vcxproj|solutionrelative:Functions\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.4\\Source.c",
+              "RelativeDocumentMoniker": "Task.4\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.4\\Source.c",
+              "RelativeToolTip": "Task.4\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-01T20:46:44.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.3\\Source.c",
+              "RelativeDocumentMoniker": "Task.3\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.3\\Source.c",
+              "RelativeToolTip": "Task.3\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-01T20:46:09.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.2\\Source.c",
+              "RelativeDocumentMoniker": "Task.2\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.2\\Source.c",
+              "RelativeToolTip": "Task.2\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-01T20:45:38.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Functions\\Source.c",
+              "RelativeDocumentMoniker": "Functions\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Functions\\Source.c",
+              "RelativeToolTip": "Functions\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-01T20:45:11.379Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "Task.5\\Source.c",
               "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Functions\\Task.5\\Source.c",
               "RelativeToolTip": "Task.5\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-29T11:00:20.577Z",
               "EditorCaption": ""

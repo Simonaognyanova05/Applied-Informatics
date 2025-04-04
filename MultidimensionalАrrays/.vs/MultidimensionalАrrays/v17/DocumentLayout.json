@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{3A400AEB-4756-43FC-AAB7-804136AFAE59}|Task.4\\Task.4.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Task.4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3A400AEB-4756-43FC-AAB7-804136AFAE59}|Task.4\\Task.4.vcxproj|solutionrelative:Task.4\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFC582B-CB46-430D-B7B5-02129354D720}|Task.3\\Task.3.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Task.3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FFC582B-CB46-430D-B7B5-02129354D720}|Task.3\\Task.3.vcxproj|solutionrelative:Task.3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF63566C-8AEB-4701-B646-8E45D3AF2B38}|Task.2\\Task.2.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF63566C-8AEB-4701-B646-8E45D3AF2B38}|Task.2\\Task.2.vcxproj|solutionrelative:Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E5223-0925-4E65-A424-DBB73C520165}|Multidimensional\u0410rrays\\Multidimensional\u0410rrays.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Multidimensional\u0410rrays\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C9E5223-0925-4E65-A424-DBB73C520165}|Multidimensional\u0410rrays\\Multidimensional\u0410rrays.vcxproj|solutionrelative:Multidimensional\u0410rrays\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Task.3\\Source.c",
+              "RelativeDocumentMoniker": "Task.3\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Task.3\\Source.c",
+              "RelativeToolTip": "Task.3\\Source.c",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-01T20:41:28.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Task.2\\Source.c",
+              "RelativeDocumentMoniker": "Task.2\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Task.2\\Source.c",
+              "RelativeToolTip": "Task.2\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-01T20:40:59.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Multidimensional\u0410rrays\\Source.c",
+              "RelativeDocumentMoniker": "Multidimensional\u0410rrays\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Multidimensional\u0410rrays\\Source.c",
+              "RelativeToolTip": "Multidimensional\u0410rrays\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-01T20:40:28.433Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "Task.4\\Source.c",
               "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Multidimensional\u0410rrays\\Task.4\\Source.c",
               "RelativeToolTip": "Task.4\\Source.c",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAACcAAABjAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBoAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-16T19:42:00.033Z",
               "EditorCaption": ""
