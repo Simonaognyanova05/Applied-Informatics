@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Pointers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91895DBE-8E89-4A7A-B692-6110D6581C03}|Task.2\\Task.2.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Pointers\\Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{91895DBE-8E89-4A7A-B692-6110D6581C03}|Task.2\\Task.2.vcxproj|solutionrelative:Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5F79480-9CBA-4B18-A094-D96F9C922027}|Pointers\\Pointers.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Pointers\\Pointers\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E5F79480-9CBA-4B18-A094-D96F9C922027}|Pointers\\Pointers.vcxproj|solutionrelative:Pointers\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A97E065B-D975-420A-BB14-68E2655E0D81}|Task.3\\Task.3.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Pointers\\Task.3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A97E065B-D975-420A-BB14-68E2655E0D81}|Task.3\\Task.3.vcxproj|solutionrelative:Task.3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Pointers\\Task.2\\Source.c",
-              "RelativeDocumentMoniker": "Task.2\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Pointers\\Task.2\\Source.c",
-              "RelativeToolTip": "Task.2\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Pointers\\Task.3\\Source.c",
+              "RelativeDocumentMoniker": "Task.3\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Pointers\\Task.3\\Source.c",
+              "RelativeToolTip": "Task.3\\Source.c",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-13T20:01:55.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Pointers\\Pointers\\Source.c",
-              "RelativeDocumentMoniker": "Pointers\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Pointers\\Pointers\\Source.c",
-              "RelativeToolTip": "Pointers\\Source.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-13T19:46:33.798Z",
+              "WhenOpened": "2025-04-13T20:11:36.553Z",
               "EditorCaption": ""
             }
           ]
