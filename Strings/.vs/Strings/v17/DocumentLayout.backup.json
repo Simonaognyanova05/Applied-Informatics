@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Strings\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A664D27A-37F4-44C7-999E-FC85730DE635}|EqualsStrings\\EqualsStrings.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Strings\\EqualsStrings\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A664D27A-37F4-44C7-999E-FC85730DE635}|EqualsStrings\\EqualsStrings.vcxproj|solutionrelative:EqualsStrings\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD927D51-A2F3-46DA-B3AE-71715914E312}|ConcatStringsWithFunction\\ConcatStringsWithFunction.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Strings\\ConcatStringsWithFunction\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DD927D51-A2F3-46DA-B3AE-71715914E312}|ConcatStringsWithFunction\\ConcatStringsWithFunction.vcxproj|solutionrelative:ConcatStringsWithFunction\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Strings\\EqualsStrings\\Source.c",
+              "RelativeDocumentMoniker": "EqualsStrings\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Strings\\EqualsStrings\\Source.c",
+              "RelativeToolTip": "EqualsStrings\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-27T11:41:34.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Strings\\ConcatStringsWithFunction\\Source.c",
               "RelativeDocumentMoniker": "ConcatStringsWithFunction\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Strings\\ConcatStringsWithFunction\\Source.c*",
-              "RelativeToolTip": "ConcatStringsWithFunction\\Source.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Strings\\ConcatStringsWithFunction\\Source.c",
+              "RelativeToolTip": "ConcatStringsWithFunction\\Source.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-27T11:28:48.953Z",
               "EditorCaption": ""
