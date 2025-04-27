@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Structures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D75B6BC4-F9EC-4098-A629-373FABF16E1F}|UsingStructInExpressions\\UsingStructInExpressions.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Structures\\UsingStructInExpressions\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D75B6BC4-F9EC-4098-A629-373FABF16E1F}|UsingStructInExpressions\\UsingStructInExpressions.vcxproj|solutionrelative:UsingStructInExpressions\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{978AC861-064F-4005-8741-9FF1EB084FBF}|StructAndFunctions\\StructAndFunctions.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Structures\\StructAndFunctions\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{978AC861-064F-4005-8741-9FF1EB084FBF}|StructAndFunctions\\StructAndFunctions.vcxproj|solutionrelative:StructAndFunctions\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Structures\\UsingStructInExpressions\\Source.c",
-              "RelativeDocumentMoniker": "UsingStructInExpressions\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Structures\\UsingStructInExpressions\\Source.c",
-              "RelativeToolTip": "UsingStructInExpressions\\Source.c",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBUAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Structures\\StructAndFunctions\\Source.c",
+              "RelativeDocumentMoniker": "StructAndFunctions\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Structures\\StructAndFunctions\\Source.c",
+              "RelativeToolTip": "StructAndFunctions\\Source.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-27T09:30:13.195Z",
+              "WhenOpened": "2025-04-27T09:41:26.499Z",
               "EditorCaption": ""
             }
           ]
