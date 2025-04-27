@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Strings", "Strings\Strings.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConcatStringsWithoutFunc", "ConcatStringsWithoutFunc\ConcatStringsWithoutFunc.vcxproj", "{44E4622C-E33D-441E-BBD4-5FB4B50C06C3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConcatStringsWithFunction", "ConcatStringsWithFunction\ConcatStringsWithFunction.vcxproj", "{DD927D51-A2F3-46DA-B3AE-71715914E312}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{44E4622C-E33D-441E-BBD4-5FB4B50C06C3}.Release|x64.Build.0 = Release|x64
 		{44E4622C-E33D-441E-BBD4-5FB4B50C06C3}.Release|x86.ActiveCfg = Release|Win32
 		{44E4622C-E33D-441E-BBD4-5FB4B50C06C3}.Release|x86.Build.0 = Release|Win32
+		{DD927D51-A2F3-46DA-B3AE-71715914E312}.Debug|x64.ActiveCfg = Debug|x64
+		{DD927D51-A2F3-46DA-B3AE-71715914E312}.Debug|x64.Build.0 = Debug|x64
+		{DD927D51-A2F3-46DA-B3AE-71715914E312}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD927D51-A2F3-46DA-B3AE-71715914E312}.Debug|x86.Build.0 = Debug|Win32
+		{DD927D51-A2F3-46DA-B3AE-71715914E312}.Release|x64.ActiveCfg = Release|x64
+		{DD927D51-A2F3-46DA-B3AE-71715914E312}.Release|x64.Build.0 = Release|x64
+		{DD927D51-A2F3-46DA-B3AE-71715914E312}.Release|x86.ActiveCfg = Release|Win32
+		{DD927D51-A2F3-46DA-B3AE-71715914E312}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
