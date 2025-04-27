@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Structures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AF63C87-028B-4A2F-967A-D89AE9DBE110}|StructThatIncludesArray\\StructThatIncludesArray.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Structures\\StructThatIncludesArray\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5AF63C87-028B-4A2F-967A-D89AE9DBE110}|StructThatIncludesArray\\StructThatIncludesArray.vcxproj|solutionrelative:StructThatIncludesArray\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0424ECCC-1DA0-4428-8D0E-8CFF9F9C1D02}|StructsThatIncludesStructs\\StructsThatIncludesStructs.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Structures\\StructsThatIncludesStructs\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0424ECCC-1DA0-4428-8D0E-8CFF9F9C1D02}|StructsThatIncludesStructs\\StructsThatIncludesStructs.vcxproj|solutionrelative:StructsThatIncludesStructs\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Structures\\StructThatIncludesArray\\Source.c",
-              "RelativeDocumentMoniker": "StructThatIncludesArray\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Structures\\StructThatIncludesArray\\Source.c",
-              "RelativeToolTip": "StructThatIncludesArray\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Structures\\StructsThatIncludesStructs\\Source.c",
+              "RelativeDocumentMoniker": "StructsThatIncludesStructs\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Structures\\StructsThatIncludesStructs\\Source.c*",
+              "RelativeToolTip": "StructsThatIncludesStructs\\Source.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-27T10:03:57.35Z",
+              "WhenOpened": "2025-04-27T10:22:31.997Z",
               "EditorCaption": ""
             }
           ]
