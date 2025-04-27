@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\Strings\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Strings\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{072EC66F-2542-4049-97E7-4EE7583C5DF1}|Strings\\Strings.vcxproj|C:\\Users\\simon\\source\\repos\\Strings\\Strings\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{072EC66F-2542-4049-97E7-4EE7583C5DF1}|Strings\\Strings.vcxproj|solutionrelative:Strings\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{44E4622C-E33D-441E-BBD4-5FB4B50C06C3}|ConcatStringsWithoutFunc\\ConcatStringsWithoutFunc.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Strings\\ConcatStringsWithoutFunc\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44E4622C-E33D-441E-BBD4-5FB4B50C06C3}|ConcatStringsWithoutFunc\\ConcatStringsWithoutFunc.vcxproj|solutionrelative:ConcatStringsWithoutFunc\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Strings\\Strings\\Source.c",
-              "RelativeDocumentMoniker": "Strings\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\Strings\\Strings\\Source.c*",
-              "RelativeToolTip": "Strings\\Source.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Strings\\ConcatStringsWithoutFunc\\Source.c",
+              "RelativeDocumentMoniker": "ConcatStringsWithoutFunc\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\Strings\\ConcatStringsWithoutFunc\\Source.c*",
+              "RelativeToolTip": "ConcatStringsWithoutFunc\\Source.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-27T10:50:04.473Z",
+              "WhenOpened": "2025-04-27T11:01:53.935Z",
               "EditorCaption": ""
             }
           ]
