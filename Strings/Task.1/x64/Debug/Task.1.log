@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\simon\OneDrive\Desktop\University - practice\Applied-Informatics\Strings\Task.1\Source.c(6,9): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Users\simon\OneDrive\Desktop\University - practice\Applied-Informatics\Strings\Task.1\Source.c(6,9):
+      consider using '%zi' in the format string
+  
+  Task.1.vcxproj -> C:\Users\simon\OneDrive\Desktop\University - practice\Applied-Informatics\Strings\x64\Debug\Task.1.exe
