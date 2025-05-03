@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\ExamPreparation - 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38DBC4EC-29E8-415D-9489-18F1DA7FD7C1}|ExamPreparation - 3\\ExamPreparation - 3.vcxproj|C:\\Users\\simon\\source\\repos\\ExamPreparation - 3\\ExamPreparation - 3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38DBC4EC-29E8-415D-9489-18F1DA7FD7C1}|ExamPreparation - 3\\ExamPreparation - 3.vcxproj|solutionrelative:ExamPreparation - 3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\ExamPreparation - 3\\ExamPreparation - 3\\Source.c",
+              "RelativeDocumentMoniker": "ExamPreparation - 3\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\ExamPreparation - 3\\ExamPreparation - 3\\Source.c",
+              "RelativeToolTip": "ExamPreparation - 3\\Source.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-03T18:53:38.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
