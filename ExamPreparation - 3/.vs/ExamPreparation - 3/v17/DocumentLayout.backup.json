@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\ExamPreparation - 3\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38DBC4EC-29E8-415D-9489-18F1DA7FD7C1}|ExamPreparation - 3\\ExamPreparation - 3.vcxproj|C:\\Users\\simon\\source\\repos\\ExamPreparation - 3\\ExamPreparation - 3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{033323C3-56D3-4C38-A9FA-AB6A716916DB}|Task.2\\Task.2.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 3\\Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{033323C3-56D3-4C38-A9FA-AB6A716916DB}|Task.2\\Task.2.vcxproj|solutionrelative:Task.2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DBC4EC-29E8-415D-9489-18F1DA7FD7C1}|ExamPreparation - 3\\ExamPreparation - 3.vcxproj|C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 3\\ExamPreparation - 3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{38DBC4EC-29E8-415D-9489-18F1DA7FD7C1}|ExamPreparation - 3\\ExamPreparation - 3.vcxproj|solutionrelative:ExamPreparation - 3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,10 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\ExamPreparation - 3\\ExamPreparation - 3\\Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 3\\Task.2\\Source.c",
+              "RelativeDocumentMoniker": "Task.2\\Source.c",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 3\\Task.2\\Source.c*",
+              "RelativeToolTip": "Task.2\\Source.c*",
+              "ViewState": "AgIAACUAAAAAkXgViZcmwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-03T19:06:25.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 3\\ExamPreparation - 3\\Source.c",
               "RelativeDocumentMoniker": "ExamPreparation - 3\\Source.c",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\ExamPreparation - 3\\ExamPreparation - 3\\Source.c*",
-              "RelativeToolTip": "ExamPreparation - 3\\Source.c*",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\University - practice\\Applied-Informatics\\ExamPreparation - 3\\ExamPreparation - 3\\Source.c",
+              "RelativeToolTip": "ExamPreparation - 3\\Source.c",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-03T18:53:38.18Z",
