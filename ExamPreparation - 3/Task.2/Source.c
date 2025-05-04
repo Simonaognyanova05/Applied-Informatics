@@ -10,38 +10,32 @@ void inputArray(int array[2][5]) {
 	}
 }
 
-void minAndMaxPassagers(int array[2][5]) {
-    int maxStation[2], minStation[2];
-    int maxPassagers[2], minPassagers[2];
+int minPassagers(int array[2][5]) {
+	int min = array[0][0], index = 0;
 
-    for (int vlak = 0; vlak < 2; vlak++) {
-        maxStation[vlak] = 0;
-        minStation[vlak] = 0;
-        maxPassagers[vlak] = array[vlak][0];
-        minPassagers[vlak] = array[vlak][0];
+	for (int i = 0; i < 2; i++) {
+		for (int j = 0; j < 5; j++) {
+			if (min > array[i][j]) {
+				min = array[i][j];
+			}
+		}
+	}
 
-        for (int gara = 1; gara < 5; gara++) {
-            if (array[vlak][gara] > maxPassagers[vlak]) {
-                maxPassagers[vlak] = array[vlak][gara];
-                maxStation[vlak] = gara;
-            }
-            if (array[vlak][gara] < minPassagers[vlak]) {
-                minPassagers[vlak] = array[vlak][gara];
-                minStation[vlak] = gara;
-            }
-        }
-    }
+	for (int i = 0; i < 2; i++) {
+		for (int j = 0; j < 5; j++) {
+			if (min == array[i][j]) {
+				index = j + 1;
+			}
+		}
+	}
 
-    for (int vlak = 0; vlak < 2; vlak++) {
-        printf("Vlak %i:\n", vlak + 1);
-        printf("Nai mnogo patnici na gara %i: %i\n", maxStation[vlak] + 1, maxPassagers[vlak]);
-        printf("Nai malko patnici na gara %i: %i\n", minStation[vlak] + 1, minPassagers[vlak]);
-    }
+	return index;
 }
 
 void main() {
     int array[2][5];
     inputArray(array);
 
-    minAndMaxPassagers(array);
+	int result = minPassagers(array);
+    printf("%i", result);
 }
